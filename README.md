@@ -1,4 +1,4 @@
-# Signup
+# Sign up
 Sign up and Sign in Form in PHP Larvel
 
 I am using Phppycharm 
